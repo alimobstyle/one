@@ -1,26 +1,26 @@
 {
-  "family":      "alimobstyle",
-  "name":        "one",
-  "version":     "1.0.1",
-  "description": "alibaba mobile css theme - one",
-  "homepage":    "https://github.com/alimobstyle/alimobstyle/one",
-  "author":      "ermin.zem",
-  "repository":  {
-    "type": "git",
-    "url":  "https://github.com/alimobstyle/one.git"
-  },
-  "bugs": {
-    "url": ""
-  },
-  "keywords": ["widget"],
-  "licenses": "MIT",
-  "spm": {
-    "output":   ["one.css"],
-    "alias":    {},
-    "devAlias": {},
-    "engines":  {}
-  },
-  "devDependencies": {
-    "grunt-contrib-cssmin": "~0.7.0"
-  }
+    "family":      "alimobstyle",
+    "name":        "one",
+    "version":     "1.0.1",
+    "description": "alibaba mobile css theme - one",
+    "homepage":    "https://github.com/alimobstyle/alimobstyle/one",
+    "author":      "ermin.zem",
+    "repository":  {
+        "type": "git",
+        "url":  "https://github.com/alimobstyle/one.git"
+    },
+    "bugs": {
+        "url": ""
+    },
+    "keywords": ["widget"],
+    "licenses": "MIT",
+    "spm": {
+        "output":   ["one.css"],
+        "alias":    {},
+        "devAlias": {},
+        "engines":  {}
+    },
+    "devDependencies": {
+        "grunt-contrib-cssmin": "~0.7.0"
+    }
 }
